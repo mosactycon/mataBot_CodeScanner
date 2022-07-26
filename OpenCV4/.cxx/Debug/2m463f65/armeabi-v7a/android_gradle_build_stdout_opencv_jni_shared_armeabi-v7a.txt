@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\Penelitian Ilmiah\AndroidStudioProjects\mataBot appPackage\code scanner\OpenCV4\.cxx\Debug\2m463f65\armeabi-v7a'
+ninja: no work to do.
